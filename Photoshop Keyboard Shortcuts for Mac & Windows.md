@@ -1,3 +1,6 @@
+http://www.clippingpathspecialist.com/tutorial/photoshop-keyboard-shortcuts-for-mac-and-windows/
+
+
 When navigating through Photoshop to make your editing changes to the photos, you can save time by using these handy Keyboard shortcuts to your advantage. You can use the shortcuts that are located on your keyboard, regardless if it is a Mac or a PC. This helpful Photoshop basic tutorial will provide tips on how to use your Keyboard to access shortcuts in Photoshop.
 
 The following are a couple of minor substitutions for Mac or PC, depending which system you are working with, just keep these in mind.
