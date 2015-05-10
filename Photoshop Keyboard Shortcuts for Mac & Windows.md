@@ -1,87 +1,87 @@
 http://www.clippingpathspecialist.com/tutorial/photoshop-keyboard-shortcuts-for-mac-and-windows/
-
+#Photoshop Keyboard Shortcuts for Mac & Windows
 
 When navigating through Photoshop to make your editing changes to the photos, you can save time by using these handy Keyboard shortcuts to your advantage. You can use the shortcuts that are located on your keyboard, regardless if it is a Mac or a PC. This helpful Photoshop basic tutorial will provide tips on how to use your Keyboard to access shortcuts in Photoshop.
 
 The following are a couple of minor substitutions for Mac or PC, depending which system you are working with, just keep these in mind.
 
-Windows(PC): CTRL = MAC: Command
-Windows(PC): ALT = MAC: Option
-Windows(PC): Backspace = MAC: Delete
-Windows(PC): Right-Click = MAC: Control
+* Windows(PC): CTRL = MAC: Command
+* Windows(PC): ALT = MAC: Option
+* Windows(PC): Backspace = MAC: Delete
+* Windows(PC): Right-Click = MAC: Control
 
-PC options and mac options
+
 
 This next part includes most often used Keyboard shortcuts for Photoshop. These are some of your most basic commands that are fairly easy to use, and will find that it really speeds up your workflow and productivity. With a little practice, it is relatively easy to learn Keyboard shortcuts for use with Photoshop.
 
-Tool bar items keyboard shortcuts:
+##Tool bar items keyboard shortcuts:
 
-Move tool: VToolbar keyboard shortcuts
-Rectangular Marquee Tool: M
-Elliptical Marquee Tool: Shift + M
-Lasso tool: L
-Polygonal Lasso Tool: Shift + L
-Magnetic Lasso Tool: Shift + L
-Quick Selection Tool: W
-Magic wand tool: Shift + W
-Crop tool: C
-Slice Tool: Shift + C
-Slice Select Tool: Shift + C
-Eyedropper Tool: I
-Color Sample Tool: Shift + I
-Ruler Tool: Shift + I
-Note Tool: Shift + I
-Count Tool: Shift + I
-Spot Healing Brush Tool: J
-Healing Bruch Tool: Shift + J
-Patch Tool: Shift + J
-Red Eye Tool: Shift + J
-Brush Tool: B
-Pencil Tool: Shift + B
-Color Replacement Tool: Shift + B
-Pencil Brush Tool: Shift + B
-Clone Stamp Tool: S
-Pattern Stamp Tool: Shift + S
-History Brush Tool: W
-Art History Brush Tool: Shift + W
-Eraser Tool: E
-Background Eraser Tool: Shift + E
-Magic Eraser Tool: Shift + E
-Gradient Too: G
-Paint Bucket Tool: Shift + G
-Dodge Tool: O
-Burn Tool: Shift + O
-Sponge Tool: Shift + O
-Pen Tool: P
-Free Form Pen Tool: Shift + P
-Type Tool: T
-Horizontal Type Tool: Shift + T
-Vertical Type Tool: Shift + T
-Horizontal Type Mask Tool: Shift + T
-Vertical Type Mask Tool: Shift + T
-Path Selection Tool: A
-Direct Selection Tool: Shift + A
-Rectangle Tool: U
-Rounded Rectangle Tool: Shift + U
-Ellipse Tool: Shift + U
-Polygon Tool: Shift + U
-Line Tool: Shift + U
-Custom Shape Tool: Shift + U
-3D Object Rotate Tool: K
-3D Object Roll Tool: Shift + K
-3D Object Pan Tool: Shift + K
-3D Object Slide Tool: Shift + K
-3D Object Scale Tool: Shift + K
-3D Rotate Camera Tool: N
-3D Roll Camera Tool: Shift + N
-3D Pan Camera Tool: Shift + N
-3D Walk Camera Tool: Shift + N
-3D Zoom Camera Tool: Shift + N
-Hand Tool: H
-Rotate View Tool: R
-Zoom Tool: Z
+* Move tool: VToolbar keyboard shortcuts
+* Rectangular Marquee Tool: M
+* Elliptical Marquee Tool: Shift + M
+* Lasso tool: L
+* Polygonal Lasso Tool: Shift + L
+* Magnetic Lasso Tool: Shift + L
+* Quick Selection Tool: W
+* Magic wand tool: Shift + W
+* Crop tool: C
+* Slice Tool: Shift + C
+* Slice Select Tool: Shift + C
+* Eyedropper Tool: I
+* Color Sample Tool: Shift + I
+* Ruler Tool: Shift + I
+* Note Tool: Shift + I
+* Count Tool: Shift + I
+* Spot Healing Brush Tool: J
+* Healing Bruch Tool: Shift + J
+* Patch Tool: Shift + J
+* Red Eye Tool: Shift + J
+* Brush Tool: B
+* Pencil Tool: Shift + B
+* Color Replacement Tool: Shift + B
+* Pencil Brush Tool: Shift + B
+* Clone Stamp Tool: S
+* Pattern Stamp Tool: Shift + S
+* History Brush Tool: W
+* Art History Brush Tool: Shift + W
+* Eraser Tool: E
+* Background Eraser Tool: Shift + E
+* Magic Eraser Tool: Shift + E
+* Gradient Too: G
+* Paint Bucket Tool: Shift + G
+* Dodge Tool: O
+* Burn Tool: Shift + O
+* Sponge Tool: Shift + O
+* Pen Tool: P
+* Free Form Pen Tool: Shift + P
+* Type Tool: T
+* Horizontal Type Tool: Shift + T
+* Vertical Type Tool: Shift + T
+* Horizontal Type Mask Tool: Shift + T
+* Vertical Type Mask Tool: Shift + T
+* Path Selection Tool: A
+* Direct Selection Tool: Shift + A
+* Rectangle Tool: U
+* Rounded Rectangle Tool: Shift + U
+* Ellipse Tool: Shift + U
+* Polygon Tool: Shift + U
+* Line Tool: Shift + U
+* Custom Shape Tool: Shift + U
+* 3D Object Rotate Tool: K
+* 3D Object Roll Tool: Shift + K
+* 3D Object Pan Tool: Shift + K
+* 3D Object Slide Tool: Shift + K
+* 3D Object Scale Tool: Shift + K
+* 3D Rotate Camera Tool: N
+* 3D Roll Camera Tool: Shift + N
+* 3D Pan Camera Tool: Shift + N
+* 3D Walk Camera Tool: Shift + N
+* 3D Zoom Camera Tool: Shift + N
+* Hand Tool: H
+* Rotate View Tool: R
+* Zoom Tool: Z
 
-Some common Photoshop keyboard shortcuts:
+##Some common Photoshop keyboard shortcuts:
 
 Commit edits when typing: For this one you would click on the Command Return key and your changes are complete.
 
@@ -163,7 +163,7 @@ Number pad keyboard shortcuts:
 
 This next section deals with using the numeric keypad and shortcuts found there.
 
-Number keypad shortcuts
+##Number keypad shortcuts
 
 The following part is about the Layer Opacity and also the tool Opacity. Each percentage give corresponds to the number key that you would click on to get the result that you want.
 
@@ -202,7 +202,7 @@ Hold down command option-and 4 to select green channel
 
 Hold down command option-and 5 to select Blue channel
 
-Arrow keys keyboard shortcuts:
+##Arrow keys keyboard shortcuts:
 
 In the next part of the tutorial we look at the Arrow keys and Other Keyboard shortcuts.
 
@@ -220,7 +220,7 @@ In addition, if you wish to move duplicates of the previous selection 1 pixel, y
 
 To move duplicates of selection 10 pixels, you would press and hold Command, Option, and Shift while pressing any of the 4 arrow keys.
 
-Still “other” keys:
+##Still “other” keys:
 
 In some keyboards you will see 2 sets of 3 keys right on top of each other.
 
@@ -238,7 +238,7 @@ Click on the “Command and Page Down” keys together to scroll 1 screen to the
 
 If you Hold Shift for any of the first four keys above, you can move up to 10 units in the direction of your choice.
 
-Keyboard shortcuts used for painting:
+##Keyboard shortcuts used for painting:
 
 The Keyboard shortcuts used for painting, will also work quite well with any of the brush tools or painting tools too.
 
@@ -286,7 +286,7 @@ If you wish to Switch between the different preset brush styles, use < or >.
 
 In order to erase to History source state, you would press and hold down the Option and Eraser Tool simultaneously.
 
-Keyboard shortcuts for selections:
+##Keyboard shortcuts for selections:
 
 Select all: To select all use the Command and A keys together.
 
@@ -340,7 +340,7 @@ Move the marque: To Move the marque at the same time you are drawing the selecti
 
 Press space bar for hand tool
 
-Keyboard shortcuts using Type Tools:
+##Keyboard shortcuts using Type Tools:
 
 Click on the Command, Shift, C keys together to perform the Align center action.
 
@@ -366,7 +366,7 @@ Click on the Command, Shift, U keys together to perform the underline action.
 
 Hold down command shift and U for underline action
 
-A few other helpful shortcuts to use:
+##A few other helpful shortcuts to use:
 
 Use the Command and Tab to switch between documents that are currently open.
 
